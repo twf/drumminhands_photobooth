@@ -5,7 +5,7 @@ A DIY photo booth using a Raspberry Pi that automatically sends animated gifs to
 
 Updated to version 3.0
 
-Version TWF 0.2
+Version TWF 0.3
 
 Find the full set of instructions here: http://www.drumminhands.com/2014/06/15/raspberry-pi-photo-booth/
 This requires:
