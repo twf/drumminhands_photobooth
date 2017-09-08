@@ -4,6 +4,7 @@ drumminhands_photobooth
 A DIY photo booth using a Raspberry Pi that automatically sends animated gifs to a Tumblr account. Great for events.
 
 Updated to version 3.0
+Version TWF 0.1
 
 Find the full set of instructions here: http://www.drumminhands.com/2014/06/15/raspberry-pi-photo-booth/
 This requires:
