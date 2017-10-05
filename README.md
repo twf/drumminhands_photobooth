@@ -5,7 +5,7 @@ A DIY photo booth using a Raspberry Pi that automatically sends animated gifs to
 
 Updated to version 3.0
 
-Version TWF 0.3
+Version TWF 0.4
 
 Find the full set of instructions here: http://www.drumminhands.com/2014/06/15/raspberry-pi-photo-booth/
 This requires:
@@ -27,3 +27,5 @@ Icons from the Noun Project
 -Hamster wheel by Dream Icons
 -Tap by Prerak Patel
 -Yoga poses by Claire Jones
+
+Results from this project can be found at https://fayfugate.tumblr.com/
