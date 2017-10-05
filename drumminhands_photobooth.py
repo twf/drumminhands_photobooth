@@ -25,7 +25,7 @@ led_pin = 11 # LED (default 7)
 btn_pin = 37 # pin for the start button (default 18)
 
 total_pics = 4 # number of pics to be taken
-capture_delay = 3 # delay between pics (1 default)
+capture_delay = 5 # delay between pics (1 default) "3"
 prep_delay = 5 # number of seconds at step 1 as users prep to have photo taken
 gif_delay = 100 # How much time between frames in the animated gif
 restart_delay = 10 # how long to display finished message before beginning a new session
