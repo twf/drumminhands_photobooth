@@ -21,5 +21,5 @@ hi_res_pics = True  # True to save high res pics from camera.
                     # If also uploading, the program will also convert each image to a smaller image before making the gif.
                     # False to first capture low res pics. False is faster.
                     # Careful, each photo costs against your daily Tumblr upload max.
-camera_iso = 400    # adjust for lighting issues. Normal is 100 or 200. Sort of dark is 400. Dark is 800 max.
+camera_iso = 200    # adjust for lighting issues. Normal is 100 or 200. Sort of dark is 400. Dark is 800 max.
                     # available options: 100, 200, 320, 400, 500, 640, 800
