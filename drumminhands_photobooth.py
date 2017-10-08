@@ -21,7 +21,7 @@ from signal import alarm, signal, SIGALRM, SIGKILL
 ########################
 ### Variables Config ###
 ########################
-led_pin = 11 # LED (default 7)
+led_pin = 23 # LED (default 7)
 btn_pin = 37 # pin for the start button (default 18)
 
 total_pics = 4 # number of pics to be taken
